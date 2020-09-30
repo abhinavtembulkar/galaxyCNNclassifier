@@ -1,4 +1,4 @@
-# galaxyCNNclassifier
+# galaxyCNNclassifier 
 
 A CNN classifer built using pytorch. Classifies images of various galaxies into 10 classes.
 
